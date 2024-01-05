@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.kneelingbus.net/sitemap.xml
+Sitemap : http://mpo09.spending.jp/sitemap.xml
